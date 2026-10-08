@@ -1,0 +1,295 @@
+{
+  "slug": "bone-series",
+  "title": {
+    "zh": "骨骸共生系统",
+    "en": "Skeletal Symbiotic System"
+  },
+  "subtitle": {
+    "zh": "SPRING 品牌｜骨骸系列首饰与视觉设计",
+    "en": "SPRING | Skeleton Collection 3D Jewellery & Visual Design"
+  },
+  "description": {
+    "zh": "为 SPRING 品牌设计视觉识别与骨骸系列首饰，将骨骼结构转化为 choker、项链与戒指。",
+    "en": "Visual identity and skeletal jewellery for SPRING, translating anatomical forms into chokers, necklaces, and rings."
+  },
+  "categories": [
+    "3d",
+    "visual"
+  ],
+  "status": "published",
+  "kind": {
+    "zh": "品牌视觉／3D 首饰设计",
+    "en": "Brand visual identity / 3D jewellery design"
+  },
+  "cover": "bone-cover-white",
+  "background": "bone-cover-white",
+  "coverAlt": {
+    "zh": "佩戴银色骨骸首饰的深色人体模型，额部展示戒指，颈部与胸前展示首饰。",
+    "en": "A dark mannequin wearing silver skeletal jewellery, with a ring displayed on the forehead and jewellery at the neck and chest."
+  },
+  "role": {
+    "zh": "品牌视觉、Logo 设计与骨骸系列 3D 打印首饰开发",
+    "en": "Brand visual identity, logo design, and 3D-printed Skeleton Collection jewellery development"
+  },
+  "stage": {
+    "zh": "品牌视觉、首饰造型与三维可视化",
+    "en": "Brand identity, jewellery forms, and 3D visualisation"
+  },
+  "deliverables": {
+    "zh": "SPRING 字标、品牌视觉、首饰造型与佩戴渲染",
+    "en": "SPRING wordmark, brand visuals, jewellery forms, and on-body renders"
+  },
+  "overview": {
+    "zh": "SPRING 是以 Remake 服装与实验性首饰设计为核心的亚文化服饰品牌。项目期间，我参与品牌视觉设计、Logo 设计以及「骨骸系列（Skeleton Collection）」3D 打印首饰开发，构建从品牌视觉到产品设计的完整创作体系。",
+    "en": "SPRING is a subculture fashion brand centred on remake clothing and experimental jewellery. I contributed to its visual identity, logo design, and the development of 3D-printed jewellery for the Skeleton Collection, connecting brand expression with product design."
+  },
+  "sections": [
+    {
+      "id": "piece-1",
+      "title": {
+        "zh": "肋翼",
+        "en": "Rib Wings"
+      },
+      "paragraphs": [
+        {
+          "zh": "肋骨向两侧展开，以骨节连接中央结构。",
+          "en": "Ribs open to either side, joined by a central sequence of bones."
+        }
+      ]
+    },
+    {
+      "id": "piece-2",
+      "title": {
+        "zh": "静像",
+        "en": "Silent Effigy"
+      },
+      "paragraphs": [
+        {
+          "zh": "人像位于中央，骨骼曲线与链条环绕其外缘。",
+          "en": "A central human effigy is surrounded by skeletal curves and chains."
+        }
+      ]
+    },
+    {
+      "id": "piece-3",
+      "title": {
+        "zh": "夜蝶",
+        "en": "Nocturnal Moth"
+      },
+      "paragraphs": [
+        {
+          "zh": "细长骨线组成翼状轮廓，在中央交汇。",
+          "en": "Slender skeletal lines form wings that converge at the centre."
+        }
+      ]
+    },
+    {
+      "id": "piece-4",
+      "title": {
+        "zh": "脊冕",
+        "en": "Vertebral Crown"
+      },
+      "paragraphs": [
+        {
+          "zh": "上部骨刺向两侧张开，下部沿脊柱向下延伸。",
+          "en": "Upper spurs spread sideways while a spinal sequence extends below."
+        }
+      ]
+    },
+    {
+      "id": "piece-5",
+      "title": {
+        "zh": "双生",
+        "en": "Twinned"
+      },
+      "paragraphs": [
+        {
+          "zh": "四向骨刺形成镜像结构，环形镂空穿过中央。",
+          "en": "Four mirrored spurs surround openings through the central form."
+        }
+      ]
+    },
+    {
+      "id": "piece-6",
+      "title": {
+        "zh": "胸棘",
+        "en": "Thoracic Thorn"
+      },
+      "paragraphs": [
+        {
+          "zh": "胸腔般的骨架围合中央，尖刺沿外轮廓延伸。",
+          "en": "A thoracic structure encloses the centre, with spurs along its outline."
+        }
+      ]
+    },
+    {
+      "id": "piece-7",
+      "title": {
+        "zh": "心骸",
+        "en": "Heart Relic"
+      },
+      "paragraphs": [
+        {
+          "zh": "层叠肋骨逐渐收束，向下延伸出单一尖端。",
+          "en": "Layered ribs narrow into a single descending point."
+        }
+      ]
+    },
+    {
+      "id": "piece-8",
+      "title": {
+        "zh": "夜脊",
+        "en": "Night Spine"
+      },
+      "paragraphs": [
+        {
+          "zh": "宽阔骨翼连接纵向骨节，形成向下生长的轮廓。",
+          "en": "Broad skeletal wings connect to a descending spinal chain."
+        }
+      ]
+    },
+    {
+      "id": "piece-9",
+      "title": {
+        "zh": "裂冠",
+        "en": "Rift Crown"
+      },
+      "paragraphs": [
+        {
+          "zh": "曲线与尖刺相互穿插，构成开敞的环形结构。",
+          "en": "Interlocking curves and spurs create an open circular structure."
+        }
+      ]
+    },
+    {
+      "id": "piece-10",
+      "title": {
+        "zh": "圣笼",
+        "en": "Reliquary"
+      },
+      "paragraphs": [
+        {
+          "zh": "弧形肋骨包围中轴，骨节穿过中央留白。",
+          "en": "Curved ribs surround an axis of bones through an open centre."
+        }
+      ]
+    },
+    {
+      "id": "piece-11",
+      "title": {
+        "zh": "翼柱",
+        "en": "Winged Spine"
+      },
+      "paragraphs": [
+        {
+          "zh": "侧向骨翼与细长脊柱连接，在末端再次分叉。",
+          "en": "Lateral bone wings meet a slender spine that branches at its tip."
+        }
+      ]
+    },
+    {
+      "id": "piece-12",
+      "title": {
+        "zh": "赤髓",
+        "en": "Crimson Marrow"
+      },
+      "paragraphs": [
+        {
+          "zh": "红色嵌入元素沿中轴排列，与银色骨骼形成对照。",
+          "en": "Red inset elements follow the central axis against silver skeletal forms."
+        }
+      ]
+    },
+    {
+      "id": "piece-13",
+      "title": {
+        "zh": "圣骸",
+        "en": "Sacred Remnant"
+      },
+      "paragraphs": [
+        {
+          "zh": "人像、肋骨与骨节叠合，形成一件纵向结构。",
+          "en": "A figure, rib structures, and vertebrae combine in a vertical composition."
+        }
+      ]
+    },
+    {
+      "id": "piece-14",
+      "title": {
+        "zh": "锁脊",
+        "en": "Bound Spine"
+      },
+      "paragraphs": [
+        {
+          "zh": "骨架层层展开，细链连接两侧的转折。",
+          "en": "Layered skeletal forms are joined by fine chains at either side."
+        }
+      ]
+    },
+    {
+      "id": "piece-15",
+      "title": {
+        "zh": "喉甲",
+        "en": "Throat Armour"
+      },
+      "paragraphs": [
+        {
+          "zh": "弧形结构从两侧抬起，向中央尖端汇聚。",
+          "en": "Raised curved sides converge towards a central point."
+        }
+      ]
+    },
+    {
+      "id": "piece-16",
+      "title": {
+        "zh": "蚀环",
+        "en": "Eclipse Loop"
+      },
+      "paragraphs": [
+        {
+          "zh": "角状骨刺沿横向伸展，环形结构连接下方。",
+          "en": "Horn-like spurs spread horizontally above a connected loop."
+        }
+      ]
+    },
+    {
+      "id": "piece-17",
+      "title": {
+        "zh": "指节",
+        "en": "Knuckle Spine"
+      },
+      "paragraphs": [
+        {
+          "zh": "重复骨节串联成排，弯曲的分支从中伸出。",
+          "en": "Repeated joints form a row with curved branches emerging from it."
+        }
+      ]
+    },
+    {
+      "id": "piece-18",
+      "title": {
+        "zh": "冠生",
+        "en": "Crownborn"
+      },
+      "paragraphs": [
+        {
+          "zh": "人像上方伸出角状结构，环与骨刺沿四周连接。",
+          "en": "Horn-like forms rise above a figure, surrounded by loops and spurs."
+        }
+      ]
+    },
+    {
+      "id": "piece-19",
+      "title": {
+        "zh": "镜翼",
+        "en": "Mirror Wings"
+      },
+      "paragraphs": [
+        {
+          "zh": "镂空骨翼相对展开，尖端收束为镜像轮廓。",
+          "en": "Open skeletal wings face one another, tapering into mirrored tips."
+        }
+      ]
+    }
+  ]
+}
